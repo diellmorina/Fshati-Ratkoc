@@ -66,10 +66,6 @@ const translations = {
   }
 };
 const bgImages = [
-  'images/fshati.jpg',
-  'images/vneshtat.jpg',
-  'images/Pamje e maleve.jpg',
-  'images/Brigjet.jpg',
   'images/Dimri.jpg'
 ];
 
