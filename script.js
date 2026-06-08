@@ -18,7 +18,7 @@ const translations = {
     'about.card1.title': 'Historia dhe identiteti',
     'about.card1.text': 'Ratkoci është një fshat me rrënjë të thella në historinë e krahinës së Rahovecit, ku koha dhe tradita kanë formuar një komunitet të fortë dhe të lidhur me tokën.',
     'about.card2.title': 'Natyra dhe peizazhi',
-    'about.card2.text': 'Përdhesitë, fusha, dhe pamjet e hapura e bëjnë këtë vend të bukur për pushime, shëtitje dhe vlerësim të natyrës së gjallë të rajonit.',
+    'about.card2.text': 'Fushat dhe pamjet e hapura e bëjnë këtë vend të bukur për pushime, shëtitje dhe vlerësim të natyrës së gjallë të rajonit.',
     'about.card3.title': 'Jeta e përditshme',
     'about.card3.text': 'Qytetaria dhe familjet e këtij fshati vazhdojnë të mbajnë shoqërinë, punën dhe zakonet lokale me krenari dhe respekt për të kaluarën.',
     'gallery.label': 'Foto',
